@@ -1,0 +1,3 @@
+USB　COMポートのドライバの種類も意識しなきゃいけない。ESPについてるCP210とやらを確認しないといけない。
+ダウンロードは以下
+https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
